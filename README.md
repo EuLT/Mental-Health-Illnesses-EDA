@@ -1,4 +1,4 @@
-## Final Project
+## Mental Health Illnesses Project
  
 This project is an analysis of mental health illnesses regarding the states in the United States.
 

@@ -1,4 +1,4 @@
-## Mental Health Illnesses Project
+## Mental Health Illnesses EDA
  
 This project is an analysis of mental health illnesses regarding the states in the United States.
 
